@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Restaurant-website/static/css/main.32df5f80.css",
+    "main.css": "/React-Restaurant-website/static/css/main.fb39048b.css",
     "main.js": "/React-Restaurant-website/static/js/main.14fca81f.js",
     "static/js/453.3257c68d.chunk.js": "/React-Restaurant-website/static/js/453.3257c68d.chunk.js",
     "static/media/home-img.jpeg": "/React-Restaurant-website/static/media/home-img.e39539bb5a58d6827d50.jpeg",
@@ -26,12 +26,12 @@
     "static/media/cart-item-1.png": "/React-Restaurant-website/static/media/cart-item-1.e96f24935570ab6ca6f6.png",
     "static/media/menu-6.png": "/React-Restaurant-website/static/media/menu-6.1e627e81ea9cffd96843.png",
     "index.html": "/React-Restaurant-website/index.html",
-    "main.32df5f80.css.map": "/React-Restaurant-website/static/css/main.32df5f80.css.map",
+    "main.fb39048b.css.map": "/React-Restaurant-website/static/css/main.fb39048b.css.map",
     "main.14fca81f.js.map": "/React-Restaurant-website/static/js/main.14fca81f.js.map",
     "453.3257c68d.chunk.js.map": "/React-Restaurant-website/static/js/453.3257c68d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32df5f80.css",
+    "static/css/main.fb39048b.css",
     "static/js/main.14fca81f.js"
   ]
 }
