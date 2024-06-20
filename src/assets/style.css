@@ -158,12 +158,12 @@
      width: 35rem;
      background: #fff;
      padding: 0 1.5rem;
-     /* transition: 1.2s; */
+     transition: 9s;
  }
 
  .header .cart-items-container.active {
      right: 0;
-     transition: 2.2s;
+     transition: 0.2s;
 
  }
 
